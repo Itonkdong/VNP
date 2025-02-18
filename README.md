@@ -4,15 +4,19 @@ This repository contains my solved laboratory exercises and previous published m
 
 ## Table of Contents
 
-- [Course Overview](#course-overview)
-- [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [License](#license)
+- [Solved Laboratory and Midterm Exercises for VNP](#solved-laboratory-and-midterm-exercises-for-vnp)
+  - [Table of Contents](#table-of-contents)
+  - [Course Overview](#course-overview)
+  - [Technologies Used](#technologies-used)
+  - [How to Use](#how-to-use)
+  - [Contributors](#contributors)
+  - [Disclaimer](#disclaimer)
+  - [License](#license)
 
 ## Course Overview
 
 - **Course Name:** VNP (Intro to Data Science)
-- **Assistants(s):** Dimitar P, Milena, Jovana, Ana 
+- **Assistant(s):** Dimitar P, Milena, Jovana, Ana 
 - **Semester:** Winter, 2024
 - **Description:**  
    This course introduces the foundational concepts of data science, covering topics such as data exploration, data cleaning, statistical analysis, and machine learning techniques. The laboratory exercises are designed to reinforce the practical application of data science methods through hands-on tasks involving real-world datasets. The midterm exams focus on analyzing and solving data science problems, testing students' understanding of both theoretical and practical aspects of the field.
@@ -37,9 +41,10 @@ Each exercise or midterm solution is contained within its respective directory. 
     cd [exercise-folder]
     ```
 
-## Contributor
+## Contributors
 
-**Viktor Kostadinoski** 
+**Viktor Kostadinoski**  
+Contributor and maintainer of this repository.
 
 ## Disclaimer
 
